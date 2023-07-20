@@ -190,7 +190,7 @@ li{
 
 .up_right_ygol_zlack{
     position: absolute;
-    margin-top: -1000px;
+    margin-top: -900px;
     margin-left: 1500px;
     transform: rotate(240deg);
     z-index: -1;
