@@ -192,6 +192,8 @@ li{
     position: absolute;
     margin-top: -990px;
     margin-left: 1410px;
+    margin-top: -900px;
+    margin-left: 1500px;
     transform: rotate(240deg);
     z-index: -1;
     filter:blur(3px);
