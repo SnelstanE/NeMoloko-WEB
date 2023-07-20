@@ -148,7 +148,7 @@ li{
 }
 
 .milk_right{
-    margin-left: 917px;
+    margin-left: 950px;
     margin-top: 20px;
     z-index: -1;
 }
@@ -190,8 +190,8 @@ li{
 
 .up_right_ygol_zlack{
     position: absolute;
-    margin-top: -900px;
-    margin-left: 1400px;
+    margin-top: -990px;
+    margin-left: 1410px;
     transform: rotate(240deg);
     z-index: -1;
     filter:blur(3px);
